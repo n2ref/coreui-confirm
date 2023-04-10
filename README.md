@@ -1,2 +1,1 @@
-# coreui-confirm
-CoreUI Confirm
+# CoreUI Confirm
